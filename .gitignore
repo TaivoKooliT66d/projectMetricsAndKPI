@@ -3,3 +3,7 @@
 *.imp
 *.iml
 *.gradle
+/projectKPI/build/*
+/projectKPI/gradle/*
+/projectKPI/lib/*
+/projectKPI/gradlew*
